@@ -4,7 +4,7 @@
 31944110US2
 2. Arrive at hotel 7920 Jones Branch Drive MC Lean VA, 22102, United States, unpack
 3231357437
-3. Eat at a restaurant
+//3. Eat at a restaurant
 
 # Day 2:
 1. library of congress
@@ -29,10 +29,12 @@ East Capitol St NE & First St SE, Washington, DC 20004
 2 15th St NW, Washington, DC 20007
 5. tidal basin
 
-# Day 4: 
+# Day 4:
 1. check out
 2. eat
-3. Shopping center etc to relax
-4. return car
-5. airport back
+3. International Spy Museum || Newseum || National Archives Museum (45 - 1 hr tour)
+4. Anywhere
+5. Shopping center etc to relax
+6. return car
+7. airport back (8pm)
 
